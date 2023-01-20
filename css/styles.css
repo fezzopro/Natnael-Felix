@@ -1,5 +1,17 @@
 @media only screen and (min-width: 600px) {
-    #main-doc{
+    #main-doc {
         height: 100vh;
     }
+}
+
+#navbar {
+
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+
 }
